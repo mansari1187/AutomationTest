@@ -1,0 +1,39 @@
+BeforeMethod - it will execute before every @Test
+
+AfterMethod -- It will execute after every @Test
+
+
+BeforeMethod
+@Test - Test1()
+@Test-- Test2()
+@Test - Test3()
+
+AfterMethod
+
+
+BeforeClass - It will execute before once only any of the @Test in class
+AfterClass - It will execute  after once only any of the @Test in class
+
+
+@BC
+@Test
+@TEst
+@TEst
+@AC
+
+
+@BeforeTest
+@AfterTest
+
+@BeforeSuite
+@AfterSuite
+
+
+We will put our code in Git repo
+
+
+Jenkins -- Git Repo
+
+
+Jenkins --- Pom.xml -- Testng.xml --- TestScript --- Main Functionality --- Page Object Model
+
