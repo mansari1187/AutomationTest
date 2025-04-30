@@ -24,6 +24,8 @@ public class MultiTest {
 
         System.out.println(driver.getTitle());
 
+        System.out.println("Handling initalization");
+
     }
 
     @Test(priority = 1)
